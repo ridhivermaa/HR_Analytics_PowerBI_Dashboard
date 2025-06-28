@@ -53,7 +53,7 @@ To provide a 360° view of HR metrics, allowing stakeholders and HR professional
 - `README.md` – Dashboard overview
 
 ## ![Dashboard Preview](HR_Analytics_PowerBI_Dashboard_Preview.png) 
-(Workable_Preview.png)
+![Dashboard Preview](Workable_Preview.png)
 
 ---
 
